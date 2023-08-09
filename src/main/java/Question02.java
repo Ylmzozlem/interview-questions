@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Question02 {
+    // Write a program in Java to check whether an integer is Armstrong number or not.
     public static void main(String[] args) {
         Scanner scn=new Scanner(System.in);
         System.out.print("Please give me a number for checking : ");
