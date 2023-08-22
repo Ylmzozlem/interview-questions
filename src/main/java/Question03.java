@@ -19,5 +19,21 @@ public class Question03 {
             System.out.println(String.format(" Number %s is a prime", number));
         }
 
+
+
+
+
     }
+    public static String message(){
+        return "Let me see";
+    }
+
+    public String message2(){
+        return "Let me see2";
+    }
+    public  String message3(){
+        return "Let me see3";
+    }
+
+
 }
